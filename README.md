@@ -13,25 +13,25 @@ This repository contains Python notes and tutorials.
             </thead>
             <tbody>
                 <tr>
-                    <td rowspan="3">file_name</td>
-                    <td>content</td>
+                    <td rowspan="3"><b> [basics.ipynb](https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb) </b></td>
+                    <td>Python Object and Data Types</td>
                 </tr>
                 <tr>
-                    <td>content</td>
+                    <td>Python Operators</td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 3px solid black;"> content</td>
+                    <td> Type Conversion</td>
                 </tr> 
                 <br>
                 <tr>
-                    <td rowspan="3">file_name</td>
-                    <td>content</td>
+                    <td rowspan="3"> </td>
+                    <td> </td>
                 </tr>
                 <tr>
-                    <td>content</td>
+                    <td> </td>
                 </tr>
                 <tr>
-                    <td style="border-bottom: 3px solid black;">content</td>
+                    <td> </td>
                 </tr> 
             </tbody>
         </table>
