@@ -4,7 +4,6 @@ This repository contains Python notes and tutorials.
 
 
 <table>
-            <caption>Content List</caption>
             <thead>
                 <tr>
                     <th><b>File</b></th>
@@ -13,7 +12,7 @@ This repository contains Python notes and tutorials.
             </thead>
             <tbody>
                 <tr>
-                    <td rowspan="3"><b> [basics.ipynb](https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb) </b></td>
+                    <td rowspan="3"><b>[basics.ipynb](https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb)</b></td>
                     <td>Python Object and Data Types</td>
                 </tr>
                 <tr>
@@ -34,5 +33,5 @@ This repository contains Python notes and tutorials.
                     <td> </td>
                 </tr> 
             </tbody>
-        </table>
+</table>
 
