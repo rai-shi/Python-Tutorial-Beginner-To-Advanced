@@ -1,2 +1,38 @@
-# Python-Tutorial-Beginner-To-Advanced
-This repository contains Python notes and tutorials beginner to advanced.
+# Python Complete Cheat Sheet
+
+This repository contains Python notes and tutorials.
+
+
+<table border="8">
+            <caption>Content List</caption>
+            <thead>
+                <tr>
+                    <th><b>File</b></th>
+                    <th><b>Content</b></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="3">file_name</td>
+                    <td>content</td>
+                </tr>
+                <tr>
+                    <td>content</td>
+                </tr>
+                <tr>
+                    <td>content</td>
+                </tr> 
+                <br>
+                <tr>
+                    <td rowspan="3">file_name</td>
+                    <td>content</td>
+                </tr>
+                <tr>
+                    <td>content</td>
+                </tr>
+                <tr>
+                    <td>content</td>
+                </tr> 
+            </tbody>
+        </table>
+
