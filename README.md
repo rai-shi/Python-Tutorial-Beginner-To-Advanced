@@ -3,7 +3,7 @@
 This repository contains Python notes and tutorials.
 
 
-<table border="8">
+<table>
             <caption>Content List</caption>
             <thead>
                 <tr>
@@ -20,7 +20,7 @@ This repository contains Python notes and tutorials.
                     <td>content</td>
                 </tr>
                 <tr>
-                    <td>content</td>
+                    <td style="border-bottom: 3px solid black;"> content</td>
                 </tr> 
                 <br>
                 <tr>
@@ -31,7 +31,7 @@ This repository contains Python notes and tutorials.
                     <td>content</td>
                 </tr>
                 <tr>
-                    <td>content</td>
+                    <td style="border-bottom: 3px solid black;">content</td>
                 </tr> 
             </tbody>
         </table>
