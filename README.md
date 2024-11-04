@@ -12,7 +12,10 @@ This repository contains Python notes and tutorials.
             </thead>
             <tbody>
                 <tr>
-                    <td rowspan="3"><b>[basics.ipynb](https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb)</b></td>
+                    <td rowspan="3"> 
+                        <a href="https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb"> basics.ipynb 
+                        </a> 
+                    </td>
                     <td>Python Object and Data Types</td>
                 </tr>
                 <tr>
