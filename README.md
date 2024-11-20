@@ -24,7 +24,6 @@ This repository contains Python notes and tutorials.
                 <tr>
                     <td> Type Conversion</td>
                 </tr> 
-                <br>
                 <tr>
                     <td rowspan="3"> </td>
                     <td> </td>
