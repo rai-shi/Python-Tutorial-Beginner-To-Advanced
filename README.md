@@ -35,9 +35,7 @@ This repository contains Python notes and tutorials.
                 </tr>
                 <tr>
                     <td> Type Conversion</td>
-                </tr> 
-
-                        
+                </tr>                         
                 <tr>
                     <td rowspan="3"> </td>
                     <td> </td>
