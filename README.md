@@ -28,7 +28,7 @@ This repository contains Python notes and tutorials.
                     <td>Getting Input from User</td>
                 </tr>
                 <tr>
-                    <td>Python Object and Data Types</td>
+                    <td>Python Basic Object and Data Types</td>
                 </tr>
                 <tr>
                     <td>Python Operators</td>
