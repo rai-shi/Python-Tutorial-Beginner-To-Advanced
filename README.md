@@ -13,7 +13,7 @@ This repository contains Python notes and tutorials.
             <tbody>
                 <tr>
                     <td rowspan="7"> 
-                        <a href="https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/basics.ipynb"> basics.ipynb 
+                        <a href="https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/Basics.ipynb"> basics.ipynb 
                         </a> 
                     </td>
                     <td>Comment Line Usage</td>
@@ -37,14 +37,26 @@ This repository contains Python notes and tutorials.
                     <td> Type Conversion</td>
                 </tr>                         
                 <tr>
-                    <td rowspan="3"> </td>
-                    <td> </td>
+                    <td rowspan="6">
+                        <a href="https://github.com/rai-shi/Python-Tutorial-Beginner-To-Advanced/blob/main/String-Manipulation.ipynb"> String-Manipulation.ipynb 
+                        </a> 
+                    </td>
+                    <td>String Declaration</td>
                 </tr>
                 <tr>
-                    <td> </td>
+                    <td>Basic String Usage</td>
                 </tr>
                 <tr>
-                    <td> </td>
+                    <td>All Attributes List</td>
+                </tr> 
+                <tr>
+                    <td>String Manipulation Functions</td>
+                </tr> 
+                <tr>
+                    <td>String Constant</td>
+                </tr> 
+                <tr>
+                    <td>ANSI Escape Codes</td>
                 </tr> 
             </tbody>
 </table>
